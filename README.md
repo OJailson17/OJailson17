@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jailson de Oliveira_ 👋
 
 <!--
 **OJailson17/OJailson17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter URL](https://img.shields.io/badge/-Twitter-0D0D0D?style=flat&logo=Twitter)](https://twitter.com/JaylsonOliveir3)
+[![Twitter URL](https://img.shields.io/badge/-LinkedIn-0D0D0D?style=flat&logo=Linkedin)](https://www.linkedin.com/in/jailson-de-oliveira-674951212/)
+[![Portfólio](https://img.shields.io/badge/Site%20Pessoal-Portf%C3%B3lio-%23FF0061)](https://jailsondeoliveira.herokuapp.com/)
