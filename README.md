@@ -1,4 +1,4 @@
-### Hi there, I'm Jailson de Oliveira_ 👋
+### Hi there, I'm Jailson de Oliveira 👋
 
 <!--
 **OJailson17/OJailson17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
