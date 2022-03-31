@@ -1,19 +1,13 @@
 ### Hi there, I'm Jailson de Oliveira 👋
 
-<!--
-**OJailson17/OJailson17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
+- 👨‍💻 Desenvolvedor Web
+- 🌱 Atualmente estou aprendendo Docker e Postgres. 
+- 💬 Me pergunte sobre qualquer coisa. Se eu não souber, a gente aprende junto.
+- 📫 Você pode entrar em contato através do meu email pessoal JaylsonO17@gmail.com ou através dos links logo abaixo.
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: Sou apaixonado por mapas e bandeiras, mas não me pergunte a bandeira de nenhum país porque eu esqueço no mesmo instante.
+  
+  <br />
   
   <div align="center">
   <a href="https://github.com/OJailson17?tab=repositories" target="_blank">
