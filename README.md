@@ -1,5 +1,7 @@
 ### Hi there, I'm Jailson de Oliveira 👋
 
+<br />
+
 - 👨‍💻 Desenvolvedor Web
 - 🌱 Atualmente estou aprendendo Docker e Postgres. 
 - 💬 Me pergunte sobre qualquer coisa. Se eu não souber, a gente aprende junto.
