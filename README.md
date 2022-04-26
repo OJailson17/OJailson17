@@ -4,7 +4,7 @@
 
 - 👨‍💻 Sou Desenvolvedor Web
 - 🌱 Atualmente estou aprendendo Docker, Postgres e TypeORM. 
-- 💬 Me pergunte sobre qualquer coisa. Se eu não souber, a gente aprende junto.
+- 💬 Me pergunte sobre qualquer coisa. Se eu não souber, nós aprendemos juntos.
 - 📫 Você pode entrar em contato comigo através do meu email pessoal JaylsonO17@gmail.com ou através dos links logo abaixo.
 - 😄 Pronomes: ele/dele.
 - ⚡ Curiosidade: Sou apaixonado por mapas e bandeiras, mas não me pergunte a bandeira de nenhum país ou a localização porque eu esqueço no mesmo instante.
