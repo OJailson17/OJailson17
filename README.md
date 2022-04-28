@@ -2,7 +2,7 @@
 
 <br />
 
-- 👨‍💻 Sou Desenvolvedor Web
+- 👨‍💻 Sou Desenvolvedor Web.
 - 🌱 Atualmente estou aprendendo Docker, Postgres e TypeORM. 
 - 💬 Me pergunte sobre qualquer coisa. Se eu não souber, nós aprendemos juntos.
 - 📫 Você pode entrar em contato comigo através do meu email pessoal JaylsonO17@gmail.com ou através dos links logo abaixo.
