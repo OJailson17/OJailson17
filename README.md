@@ -1,4 +1,4 @@
-# Olá devs, meu nome é Jailson de Oliveira! 👋
+# Olá devs, me chamo Jailson de Oliveira! 👋
 
 <br />
 
