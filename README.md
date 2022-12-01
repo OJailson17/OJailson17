@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="https://twitter.com/ojailson17" target="_blank">
+<!--   <a href="https://twitter.com/ojailson17" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
   
   <a href="https://jailsondeoliveira.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Site%20Pessoal-Port%C3%B3lio-%23e50057?style=for-the-badge" />
