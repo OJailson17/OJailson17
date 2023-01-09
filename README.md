@@ -40,11 +40,11 @@
 </div>
 
 <br />
-
+<!--
 <div align="center">
   <img src="https://github.com/ojailson17/ojailson17/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
+-->
 <br />
 
 <h3 align="center">Ferramentas e Tecnologias</h3>
