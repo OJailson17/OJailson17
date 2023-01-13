@@ -11,9 +11,9 @@
   
   <br />
   <div align="center">
-  <!--
   <a href="https://github.com/OJailson17?tab=repositories" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojailson17&theme=radical" />
+    <!--
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojailson17&layout=compact&show_icons=true&title_color=ffffff&icon_color=e50057&text_color=daf7dc&bg_color=1F2029"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ojailson17&show_icons=true&title_color=ffffff&icon_color=e50057&text_color=daf7dc&bg_color=1F2029"/>
     
