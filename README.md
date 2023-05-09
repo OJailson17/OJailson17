@@ -3,7 +3,7 @@
 <br />
 
 - 👨‍💻 Sou Desenvolvedor Web, com foco em Frontend.
-- 🌱 Atualmente estou aprendendo TailwindCSS.
+- 🌱 Atualmente estou aprendendo NestJS.
 - 💬 Me pergunte sobre qualquer coisa. Se eu não souber, nós aprendemos juntos.
 - 📫 Você pode entrar em contato comigo através do meu email pessoal JaylsonO17@gmail.com ou através dos links logo abaixo.
 - 😄 Pronomes: ele/dele.
