@@ -2,7 +2,7 @@
 
 <br />
 
-- 👨‍💻 Sou Desenvolvedor Web, com foco em Frontend.
+- 👨‍💻 Sou Desenvolvedor Frontend.
 - 🌱 Atualmente estou aprendendo sobre Clean Architecture no frontend.
 - 💬 Me pergunte sobre qualquer coisa. Se eu não souber, nós aprendemos juntos.
 - 📫 Você pode entrar em contato comigo através do meu email pessoal JaylsonO17@gmail.com ou através dos links logo abaixo.
