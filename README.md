@@ -36,7 +36,7 @@
   </a> -->
   
   <a href="https://jailsondeoliveira.com.br" target="_blank">
-  <img src="https://img.shields.io/badge/Site%20Pessoal-Port%C3%B3lio-%23e50057?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Site%20Pessoal-Portf%C3%B3lio-%23e50057?style=for-the-badge" />
   </a>
 </div>
 
