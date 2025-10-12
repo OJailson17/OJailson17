@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> -->
   
-  <a href="https://jailsondeoliveira.vercel.app" target="_blank">
+  <a href="https://jailsondeoliveira.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Site%20Pessoal-Port%C3%B3lio-%23e50057?style=for-the-badge" />
   </a>
 </div>
