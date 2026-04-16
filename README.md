@@ -47,10 +47,10 @@
 </div> -->
 <br />
 
-<h3 align="center">Ferramentas e Tecnologias</h3>
+<!-- <h3 align="center">Ferramentas e Tecnologias</h3>
 <br />
 
-<div align="center">
+ <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60" />
           
-</div>
+</div> -->
 
 <div>
 
